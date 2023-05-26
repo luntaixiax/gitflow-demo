@@ -1,0 +1,3 @@
+hello from 1st_feature
+and we change it after the 1st commit
+git commit -m "pre-release bug fix and version tag bump to 0.1.0"
